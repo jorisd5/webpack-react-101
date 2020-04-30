@@ -5,7 +5,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@babel/core": "^7.6.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
